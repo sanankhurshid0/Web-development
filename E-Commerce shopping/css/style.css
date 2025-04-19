@@ -1,0 +1,23 @@
+.section{
+    height: 200px;
+    width: 200px;
+    margin: 0px auto;
+    overflow: hidden;
+    background-color: rgb(98, 155, 98);
+    border-radius: 50%;
+    /*margin-top: 10px;*/
+    
+}
+.section img {
+    width: 100%;
+
+
+}
+
+.footer{
+    min-height:300px;
+
+}
+.footer img{
+    height:100px;
+}
